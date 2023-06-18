@@ -15,10 +15,10 @@ int main(void)
 	{
 		putchar(c);
 	}
-
 	for (c = 'A' ; c <= 'z' ; c++)
 	{
 		putchar(c);
+
 	}
 	putchar('\n');
 	return (0);
