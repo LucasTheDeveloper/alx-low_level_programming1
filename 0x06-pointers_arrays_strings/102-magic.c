@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+* This program demonstrates pointer manipulation by assigning a value
+* to an integer through a pointer, resulting in a specific output.
+*/
+
 int main(void)
 {
 int n;
